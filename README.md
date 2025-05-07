@@ -7,7 +7,7 @@ I am studying Front-End
 Hi, I'm Shakhriyor, a front-end development student passionate about creating responsive, user-friendly websites. I'm currently learning HTML, CSS, JavaScript, and frameworks like React to bring modern web designs to life. Always curious and eager to grow, I'm building my skills one project at a time.
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [baxtiyorov.dev](mailto:baxtiyorov.dev)
+* ✉️  You can contact me at [baxtiyorov.dev](mailto:baxtiyorov.dev@gmail.com)
 * 🧠  I'm learning JavaScript
 
 <a href="https://www.github.com/shakhriyor-dev" target="_blank" rel="noreferrer"><img
