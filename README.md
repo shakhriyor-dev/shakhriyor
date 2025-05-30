@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shaxriyor</h1> 
 <h3 align="center">frontend developer from Uzbekistan (Karshi)</h3>
 
-<p align="left"> <img src=A"https://komarev.com/ghpvc/?username=shakhriyor-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shakhriyor-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakhriyor-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shakhriyor-dev" /> </p>
 
 - 🔭 I’m currently working on [bbc-auto]
 
